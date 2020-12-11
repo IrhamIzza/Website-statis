@@ -1,0 +1,131 @@
+html, body, #wrap {
+	height:100%;
+}
+body > #wrap {
+	height:auto;
+	min-height:100%;
+}
+p{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+a {
+	text-decoration:none;
+}
+#logo h1 {
+	text-indent:-9999px;
+	background:transparent url(images/dapurkue.png) no-repeat;
+}
+#logo h1 a {
+	display:block;
+	height:105px;
+	width:220px;
+}
+#logo h2 {
+	display:none;
+}
+#mainMenu {
+	font:bold italic 16px/120% "Bookman Old Style", Georgia;
+}
+#mainMenu ul li {
+	list-style:none;
+	float:left;
+	margin:0 20px 0 0;
+}
+.pageInfo {
+	border-bottom:1px solid #4F2600;
+}
+.dapurBlog h3 {
+	font:bold italic 32px "Bookman Old Style", Georgia;
+	margin-bottom:8px;
+}
+.bodyContent {
+	margin-top:20px;
+}
+.productsWarp {
+	position: relative;
+	overflow:hidden;
+	margin-bottom:10px;
+	padding-bottom:10px;
+	width:940px;
+	height:398px;
+}
+.productsWarp ul {
+	list-style:none;
+	margin:0;
+	width:20000em;
+	position:absolute;
+}
+.productsWarp ul li {
+	list-style:none;
+	float:left;
+	margin:0;
+}
+.Irham{
+	padding-left: 170px;
+	padding-top: 50px;
+}
+.Irham .judul{
+	padding-left: 400px;
+	font:bold italic 60px "Bookman Old Style", Georgia;
+	color:#FF9900;
+}
+.Irham img{
+	padding-left: 20px;
+}
+table {
+    margin-left: 325;
+    margin-top: -290;
+	font:bold italic 29px "Bookman Old Style", Georgia;
+	color:#FF9900;
+}
+table td{
+	padding-bottom: 8px;
+	position: relative;
+	color:#FF9900;
+}
+.back{
+	background-color: #4d2600;
+	width :1000px;
+	height: 400px;
+	position: relative;
+	margin-left: 5;
+}
+.background{
+	width: 1350px;
+	height: 300px;
+	margin-left: -200px;
+	margin-top: -30px;
+    opacity: 0.5;
+}
+.about{
+	margin-left: 725;
+    margin-top: -290;
+	font:bold italic 70px "Bookman Old Style", Georgia;
+	color:#FF9900;
+}
+.about2{
+	display: inline-block;
+	font:bold italic 28px "Bookman Old Style", Georgia;
+	margin-top: 220;
+	width: 800px;
+	height: 500px;
+	text-align: left;
+	color:#FF9900;
+	margin-left: -100;
+}
+.back1{
+	background-color: #4d2600;
+	width :300px;
+	height: 400px;
+	margin-left: 900;
+	margin-top: -320
+}
+.b{
+	font:bold italic 20px "Bookman Old Style", Georgia;
+	color:#FF9900;
+}

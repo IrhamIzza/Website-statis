@@ -1,0 +1,22 @@
+#warp {
+	background:#281300 url(images/bg-head.jpg) repeat-x;
+	padding-bottom:250px;
+}
+.stickyNews {
+	background:url(images/badge-new.png) no-repeat left top;
+}
+#freshCake {
+	background:url(images/swirlborder.png) no-repeat bottom;
+}
+#chooseCake {
+	background:url(images/swirlborder.png) no-repeat top;
+}
+a{
+	color:#FF9900;
+}
+body, a:hover, #headright h3.login a:hover, .aActive{
+	color:#fff;
+}
+.productsWarp ul li img, .post img, .banner250 img, .freshOven ul li a:hover, .productThumb ul li a:hover {
+	border:1px solid #fff;
+}
